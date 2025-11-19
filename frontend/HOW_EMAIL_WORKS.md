@@ -152,3 +152,4 @@ To test if emails are working:
 
 **Everything is ready! Just configure EmailJS credentials once and you're done!**
 
+

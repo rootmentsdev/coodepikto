@@ -158,3 +158,4 @@ After setting up:
 - Double-check variable names match: `{{from_name}}`, `{{from_email}}`, `{{message}}`, `{{reply_to}}`
 - Make sure you're using double curly braces: `{{variable_name}}`
 
+
